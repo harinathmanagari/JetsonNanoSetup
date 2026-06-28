@@ -136,7 +136,3 @@ llama-server \
 ```
 
 ---
-
-Used system message from:
-
-https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools/blob/main/Anthropic/Sonnet%204.5%20Prompt.txt
